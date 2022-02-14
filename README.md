@@ -87,3 +87,14 @@ Inicio
    velocidad <- (distancia * 60) /tiempo
    
    escribir("Se ha desplazado a una velocidad de " & velocidad & "km/h.")
+   
+Fin   
+
+### UML
+
+![4 uml drawio](https://user-images.githubusercontent.com/98824525/153869135-f0c12922-0178-477a-b865-a463b7745e64.svg)
+
+### FLOWCHART
+
+![4 flowchart drawio](https://user-images.githubusercontent.com/98824525/153869167-1aa78ca9-3396-41ff-b495-5bd47cb50331.svg)
+
