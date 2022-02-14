@@ -29,11 +29,11 @@ a="7", b="8"
 
 ### UML
 
-![1 uml drawio](https://user-images.githubusercontent.com/98824525/153864961-9bbace30-b428-417d-8d50-94ef6e6df789.svg)
+![Alt text](1.uml.drawio.svg)
 
 ### FLOWCHART
 
-![1 flowchart drawio](https://user-images.githubusercontent.com/98824525/153865099-cc4a3292-217e-4a60-801a-05614aef58c3.svg)
+![Alt text](1.flowchart.drawio.svg)
 
 ## 2. ¿Qué se muestra?
 ### ¿Qué veremos al ejecutar el siguiente algoritmo?
@@ -46,11 +46,11 @@ Test , valor2 = 8
 
 ### UML
 
-![2 uml drawio](https://user-images.githubusercontent.com/98824525/153865824-92a948cd-d656-4ce4-965f-d353e1ec4943.svg)
+![Alt text](2.uml.drawio.svg)
 
 ### FLOWCHART
 
-![2 flowchart drawio](https://user-images.githubusercontent.com/98824525/153865876-70e766a3-8c16-45fc-b20e-64ff5e07effb.svg)
+![Alt text](2.flowchart.drawio.svg)
 
 ## 3. ¿Qué hace?
 ### ¿Qué hace este algoritmo?
@@ -59,12 +59,11 @@ Este algoritmo pide al usuario 2 valores, los asigna a dos variables, intercambi
 
 ### UML
 
-![3 uml drawio](https://user-images.githubusercontent.com/98824525/153866315-b994be98-3bfe-4c95-8511-de184f7c6fd0.svg)
+![Alt text](3.uml.drawio.svg)
 
 ### FLOWCHART
 
-![3 flowchart drawio](https://user-images.githubusercontent.com/98824525/153866257-34303991-dbe0-4c32-8e54-638a4fb750fc.svg)
-
+![Alt text](3.flowchart.drawio.svg)
 
 ## 4. Velocidad media
 ### Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
@@ -92,9 +91,9 @@ Fin
 
 ### UML
 
-![4 uml drawio](https://user-images.githubusercontent.com/98824525/153869135-f0c12922-0178-477a-b865-a463b7745e64.svg)
+![Alt text](4.uml.drawio.svg)
 
 ### FLOWCHART
 
-![4 flowchart drawio](https://user-images.githubusercontent.com/98824525/153869167-1aa78ca9-3396-41ff-b495-5bd47cb50331.svg)
+![Alt text](4.flowchart.drawio.svg)
 
